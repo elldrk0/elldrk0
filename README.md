@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elldrk0
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java, also interested in learning C++
 - 📫 How to reach me:
 
 <!---
